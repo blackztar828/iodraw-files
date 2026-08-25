@@ -13,7 +13,7 @@
         <mxCell id="vCeWfnWYtxCK-3oplgY0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="vCeWfnWYtxCK-3oplgY0-2" target="vCeWfnWYtxCK-3oplgY0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vCeWfnWYtxCK-3oplgY0-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;使用程度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;M&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="vCeWfnWYtxCK-3oplgY0-2" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;使用程度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;M&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vCeWfnWYtxCK-3oplgY0-3" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;使用效果&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Y&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
